@@ -1,3 +1,11 @@
+"""
+Projekt 2: Bulls & Cows
+
+author: Martin Prchal
+email: prchalmartin2@gmail.com
+"""
+
+
 import random
 
 # Konstanty
